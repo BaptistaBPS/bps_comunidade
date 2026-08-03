@@ -1,0 +1,15 @@
+# Ambiente virtual
+.venv/
+
+# Configurações do PyCharm
+.idea/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+
+# Banco de dados local
+instance/
+
+# macOS
+.DS_Store
